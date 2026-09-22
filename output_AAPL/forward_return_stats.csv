@@ -1,0 +1,11 @@
+direction,horizon_days,n,mean_fwd_return_pct,baseline_mean_pct,diff_pct,t_stat,p_value,significant_at_5pct,note
+UP_JUMP,1,35,-0.498,0.128,-0.626,-1.208,0.2353,False,
+DOWN_JUMP,1,47,0.013,0.128,-0.116,-0.365,0.7168,False,
+UP_JUMP,3,35,-0.118,0.342,-0.46,-0.713,0.4807,False,
+DOWN_JUMP,3,47,0.747,0.342,0.406,0.704,0.4848,False,
+UP_JUMP,5,35,-0.697,0.569,-1.266,-1.298,0.203,False,
+DOWN_JUMP,5,47,1.438,0.569,0.869,1.365,0.1786,False,
+UP_JUMP,10,34,-0.28,1.123,-1.404,-1.288,0.2064,False,
+DOWN_JUMP,10,47,2.146,1.123,1.022,0.986,0.329,False,
+UP_JUMP,20,34,1.117,2.274,-1.157,-0.801,0.4287,False,
+DOWN_JUMP,20,47,2.256,2.274,-0.018,-0.013,0.9899,False,

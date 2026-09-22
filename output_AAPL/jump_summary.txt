@@ -1,0 +1,10 @@
+Jump Detection Summary for AAPL
+(z-threshold=2.5, vol_window=20 days)
+
+total_trading_days_evaluated: 2170
+num_jumps: 82
+jump_rate_pct: 3.78
+num_up_jumps: 35
+num_down_jumps: 47
+avg_up_jump_return_pct: 5.56
+avg_down_jump_return_pct: -4.31

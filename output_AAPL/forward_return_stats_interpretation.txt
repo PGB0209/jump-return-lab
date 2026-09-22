@@ -1,0 +1,1 @@
+No horizon/direction combination showed a statistically significant difference from baseline (non-jump) forward returns at the 5% level. This means the jump signal, as defined, does not show reliable predictive power over random chance in this dataset — a common and important finding, not a failure of the analysis.
